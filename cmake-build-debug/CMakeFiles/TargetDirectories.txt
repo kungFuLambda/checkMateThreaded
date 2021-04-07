@@ -1,0 +1,3 @@
+C:/Users/Leont/CLionProjects/checkMate/cmake-build-debug/CMakeFiles/checkMate.dir
+C:/Users/Leont/CLionProjects/checkMate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leont/CLionProjects/checkMate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

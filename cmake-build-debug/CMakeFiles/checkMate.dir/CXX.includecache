@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leont/CLionProjects/checkMate/Board.cpp
+Board.h
+C:/Users/Leont/CLionProjects/checkMate/Board.h
+vector
+-
+iostream
+-
+
+C:/Users/Leont/CLionProjects/checkMate/Board.h
+memory
+-
+vector
+-
+Piece.h
+C:/Users/Leont/CLionProjects/checkMate/Piece.h
+
+C:/Users/Leont/CLionProjects/checkMate/Piece.h
+tuple
+-
+ios
+-
+
+C:/Users/Leont/CLionProjects/checkMate/main.cpp
+iostream
+-
+Piece.h
+C:/Users/Leont/CLionProjects/checkMate/Piece.h
+Board.h
+C:/Users/Leont/CLionProjects/checkMate/Board.h
+
